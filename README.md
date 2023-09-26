@@ -1,5 +1,6 @@
 # Grading-System
 Grade
+
 Enter one by one the number of the grade that the students has received
 
 Then Enter -1
